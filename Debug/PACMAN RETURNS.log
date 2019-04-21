@@ -1,0 +1,17 @@
+﻿Build started 4/17/2019 2:58:23 PM.
+     1>Project "S:\FINAL PROJECT ON PACMAN\PACMAN RETURNS\PACMAN RETURNS\PACMAN RETURNS.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\PACMAN RETURNS.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         PACMAN RETURNS.vcxproj -> S:\FINAL PROJECT ON PACMAN\PACMAN RETURNS\Debug\PACMAN RETURNS.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\PACMAN RETURNS.unsuccessfulbuild".
+         Touching "Debug\PACMAN RETURNS.lastbuildstate".
+     1>Done Building Project "S:\FINAL PROJECT ON PACMAN\PACMAN RETURNS\PACMAN RETURNS\PACMAN RETURNS.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10

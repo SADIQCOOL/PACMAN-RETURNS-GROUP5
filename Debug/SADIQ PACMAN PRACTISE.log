@@ -1,0 +1,17 @@
+﻿Build started 4/16/2019 3:38:20 AM.
+     1>Project "S:\SADIQ PACMAN PRACTISE\NAHIAN\PACMAN GAME\SADIQ PACMAN PRACTISE\SADIQ PACMAN PRACTISE.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\SADIQ PACMAN PRACTISE.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         SADIQ PACMAN PRACTISE.vcxproj -> S:\SADIQ PACMAN PRACTISE\NAHIAN\PACMAN GAME\Debug\SADIQ PACMAN PRACTISE.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\SADIQ PACMAN PRACTISE.unsuccessfulbuild".
+         Touching "Debug\SADIQ PACMAN PRACTISE.lastbuildstate".
+     1>Done Building Project "S:\SADIQ PACMAN PRACTISE\NAHIAN\PACMAN GAME\SADIQ PACMAN PRACTISE\SADIQ PACMAN PRACTISE.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10
